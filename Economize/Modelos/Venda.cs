@@ -1,4 +1,4 @@
-namespace Economize;
+namespace Modelos;
 public class Vendas:Cliente
 {
      string DataPedido;

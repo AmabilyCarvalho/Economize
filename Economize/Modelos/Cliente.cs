@@ -1,4 +1,4 @@
-namespace Economize;
+namespace Modelos;
 public class Cliente
 {
     string nome;
@@ -10,5 +10,17 @@ public class Cliente
     public string GetNome ()
     {
         return nome;
+    }
+
+
+        string ID;
+    
+    public void SetID (string ID)
+    {
+        this.ID=ID;
+    }
+    public string GetID ()
+    {
+        return ID;
     }
 }
