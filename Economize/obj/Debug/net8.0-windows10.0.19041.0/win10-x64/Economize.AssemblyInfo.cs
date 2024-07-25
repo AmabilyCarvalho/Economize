@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Economize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0da8d77425993b6effc48b105c51c55534e6ac84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8bf602c4af9ea0e2ed7619afc10030569ee54f60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Economize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Economize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
